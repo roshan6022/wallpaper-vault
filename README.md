@@ -54,8 +54,6 @@ Want to add your own wallpaper?
 
 - Place it in the appropriate category folder
 
-- Name files using lowercase and hyphens (e.g., sunset-lake.jpg)
-
 Then:
 
 ```
