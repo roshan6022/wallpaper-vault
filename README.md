@@ -8,7 +8,6 @@ A stunning collection of high-quality wallpapers, curated with taste. From abstr
 - `anime` – Handpicked anime-style wallpapers
 - `tech` – Futuristic and code-themed designs
 - `nature` – Landscapes, skies, forests, and more
-- `cars` - From classic to supercar wallpapers
 
 ## 📥 How to Use
 
