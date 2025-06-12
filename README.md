@@ -65,7 +65,14 @@ Open a pull request and you're good to go! 🙌
 
 ## 📸 Preview
 
-<p align="center"> <img src="3.jpg" alt="Sample Wallpaper" width="500"/> </p>
+<p align="center">
+  <img src="anime/2.png" alt="Sample Wallpaper" width="200"/>
+  <img src="anime/7.jpg" alt="Sample Wallpaper" width="200"/>
+  <img src="anime/9.jpg" alt="Sample Wallpaper" width="200"/>
+  <img src="anime/38.jpg" alt="Sample Wallpaper" width="200"/>
+  <img src="anime/44.jpg" alt="Sample Wallpaper" width="200"/>
+  <img src="anime/51.jpg" alt="Sample Wallpaper" width="200"/>
+</p>
 
 ## 🧠 License
 
